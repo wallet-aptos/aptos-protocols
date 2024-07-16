@@ -1,0 +1,12 @@
+{
+    "lend/borrow" : {
+        "name": "Lend/Borrow",
+        "description": "Lend and Borrow markets",
+        "image": null
+    },
+    "non-evm" :{
+        "name": "Non-EVM",
+        "description": "Non-EVM chains",
+        "image": null
+    }
+}

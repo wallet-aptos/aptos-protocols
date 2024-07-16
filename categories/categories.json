@@ -1,0 +1,22 @@
+{
+    "defi" : {
+        "name": "DeFi",
+        "description": "Decentralized Finance",
+        "image": null
+    },
+    "gaming" : {
+        "name": "Gaming",
+        "description": "Dapps and protocols that are focused on gaming",
+        "image": null
+    },
+    "marketplaces" : {
+        "name": "Marketplaces",
+        "description": "NFT Marketplaces",
+        "image": null
+    },
+    "infra" : {
+        "name": "Infrastructure",
+        "description": "Blockchain infrastructure projects",
+        "image": null
+    }
+}

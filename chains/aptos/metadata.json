@@ -8,5 +8,8 @@
     "telegram": "https://t.me/aptos",
     "github": "https://github.com/aptos-foundation",
     "documentation": "https://aptos.dev",
-    "discord": "https://discord.com/invite/aptosnetwork"
+    "discord": "https://discord.com/invite/aptosnetwork",
+    "tags": [
+        "non-evm"
+    ]
 }
