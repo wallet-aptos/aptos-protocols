@@ -7,7 +7,7 @@
     "github": null,
     "documentation": "https://docs.echelon.market/echelon-v1",
     "discord": "https://discord.com/invite/echelonmarket",
-    "logo": "https://raw.githubusercontent.com/wallet-echelon/aptos-protocols/main/icons/echelon.avif",
+    "logo": "https://raw.githubusercontent.com/wallet-aptos/aptos-protocols/main/icons/echelon.avif",
     "description": "Echelon is a high-efficiency borrow/lend market designed to scale Move DeFi & liquidity. Drawing inspiration from AAVE's E-Mode, Echelon offers unmatched capital efficiency to borrowers with high LTV loans on select asset pairs, such as stables or LST and native assets. Echelon v1 is audited and live on Aptos mainnet as of March with plans to expand to other Move VMs such as Movement's M2 and Initia in 2024. v1.1 will support RWA collateral (i.e. Ondo's USDY) and covered call options vaults. ",
     "description_short": "Echelon is a high-efficiency borrow/lend market designed to scale Move DeFi & liquidity.",
     "is_banned": false,
