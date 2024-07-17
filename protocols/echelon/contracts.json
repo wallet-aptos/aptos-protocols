@@ -7,22 +7,27 @@
             "functions" : {
                 "supply" : {
                     "description" : "Supply asset(s) to echelon's market",
-                    "operation_type": "Lend"
+                    "operation_type": "Lend",
+                    "tags": []
                 },
                 "borrow" : {
                     "description" : "Borrow asset(s) from echelon's market",
-                    "operation_type": "Borrow"
+                    "operation_type": "Borrow",
+                    "tags": []
                 },
                 "withdraw" : {
                     "description" : "Withdraw Lent asset(s) from echelon's market",
-                    "operation_type": "Withdraw"
+                    "operation_type": "Withdraw",
+                    "tags": []
                 },
                 "repay" : {
                     "description" : "Repay borrowed asset(s) to echelon's market",
-                    "operation_type": "Repay"
+                    "operation_type": "Repay",
+                    "tags": []
                 }
                 
-            }
+            },
+            "tags": []
         }
     ] 
     }
