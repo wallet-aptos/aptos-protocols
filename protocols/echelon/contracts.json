@@ -1,34 +1,32 @@
 {
-    "contracts" : {
-        "0xc6bc659f1649553c1a3fa05d9727433dc03843baac29473c817d06d39e7621ba":[
-            {
-            "module_name": "scripts",
-            "module_description": "Echelon's Move Entry Function Scripts",
-            "functions" : {
-                "supply" : {
-                    "description" : "Supply asset(s) to echelon's market",
-                    "operation_type": "Lend",
-                    "tags": []
-                },
-                "borrow" : {
-                    "description" : "Borrow asset(s) from echelon's market",
-                    "operation_type": "Borrow",
-                    "tags": []
-                },
-                "withdraw" : {
-                    "description" : "Withdraw Lent asset(s) from echelon's market",
-                    "operation_type": "Withdraw",
-                    "tags": []
-                },
-                "repay" : {
-                    "description" : "Repay borrowed asset(s) to echelon's market",
-                    "operation_type": "Repay",
-                    "tags": []
-                }
-                
+    "0xc6bc659f1649553c1a3fa05d9727433dc03843baac29473c817d06d39e7621ba":[
+        {
+        "module_name": "scripts",
+        "module_description": "Echelon's Move Entry Function Scripts",
+        "functions" : {
+            "supply" : {
+                "description" : "Supply asset(s) to echelon's market",
+                "operation_type": "Lend",
+                "tags": []
             },
-            "tags": []
+            "borrow" : {
+                "description" : "Borrow asset(s) from echelon's market",
+                "operation_type": "Borrow",
+                "tags": []
+            },
+            "withdraw" : {
+                "description" : "Withdraw Lent asset(s) from echelon's market",
+                "operation_type": "Withdraw",
+                "tags": []
+            },
+            "repay" : {
+                "description" : "Repay borrowed asset(s) to echelon's market",
+                "operation_type": "Repay",
+                "tags": []
+            }
+            
+        },
+        "tags": []
         }
     ] 
-    }
 }
