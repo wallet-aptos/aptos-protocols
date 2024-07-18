@@ -1,11 +1,11 @@
 {
     "lend/borrow" : {
-        "name": "Lend/Borrow",
-        "description": "Lend and Borrow markets",
+        "name": "lend/borrow",
+        "description": "Lend and Borrow protocols",
         "image": null
     },
     "non-evm" :{
-        "name": "Non-EVM",
+        "name": "non-evm",
         "description": "Non-EVM chains",
         "image": null
     }
