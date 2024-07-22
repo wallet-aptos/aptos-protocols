@@ -1,0 +1,42 @@
+{
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa" : [
+        {
+        "module_name": "managed_coin",
+        "module_description": "Baptswap's Move Entry Function Scripts",
+        "functions" : {
+            "register" : {
+                "description" : "Register a new coin",
+                "operation_type": "Register",
+                "tags": []
+            }
+        }
+    },
+    {
+        "module_name" : "router_v2dot1",
+        "module_description" : "Baptswap's Router V2.1",
+        "functions" : {
+            "create_pair" : {
+                "description" : "Create a new pair",
+                "operation_type": "Create",
+                "tags": []
+            },
+            "swap_exact_pair" : {
+                "description" : "Swap exact pair",
+                "operation_type": "Swap",
+                "tags": []
+            }
+        }
+    },
+    {
+        "module_name" : "code",
+        "module_description" : "Baptswap Code",
+        "functions" : {
+            "publish_package_txn" : {
+                "description" : "Publish a package transaction",
+                "operation_type": "Publish",
+                "tags": []
+            }
+        }
+    }
+]
+}

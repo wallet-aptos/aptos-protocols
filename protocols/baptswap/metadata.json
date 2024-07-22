@@ -1,0 +1,21 @@
+{
+    "name": "baptswap",
+    "parent_protocol_name": null,
+    "website": "https://baptswap.com/",
+    "twitter": "https://twitter.com/baptswap",
+    "telegram": "https://t.me/baptlabs",
+    "github": "https://github.com/baptswap",
+    "documentation": "https://docs.baptswap.com/    ",
+    "discord": "https://discord.com/invite/fvGrNVN55B",
+    "logo": "https://raw.githubusercontent.com/wallet-aptos/aptos-protocols/main/icons/baptswap",
+    "description": "Baptswap is a Decentralized Exchange (DEX) operating on the Aptos Network, enabling peer-to-peer cryptocurrency exchanges without the need for trusted intermediaries. It is unique in its support for fee-on-transfer solutions within a MOVE-based blockchain environment.",
+    "description_short": "Baptswap is a Decentralized Exchange (DEX) operating on the Aptos Network.",
+    "is_banned": false,
+    "status": "active",
+    "categories" : [
+        "defi"
+    ],
+    "tags": [
+        "swap", "dex", "pools"
+    ]
+}
