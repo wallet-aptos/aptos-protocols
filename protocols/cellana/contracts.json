@@ -1,0 +1,55 @@
+{
+    "0x2ebb2ccac5e027a87fa0e2e5f656a3a4238d6a48d93ec9b610d570fc0aa0df12":[
+        {
+        "module_name": "router",
+        "module_description": "Cellana Router",
+        "functions" : {
+            "swap_route_entry_from_coin" : {
+                "description" : "Swap Route Entry From Coin",
+                "operation_type": "Swap",
+                "tags": []
+            },
+            "add_liquidity_and_stake_coin_entry" : {
+                "description" : "Add liquidity and stake coin entry",
+                "operation_type": "Stake",
+                "tags": []
+            },
+            "unstake_and_remove_liquidity_coin_entry" : {
+                "description" : "Withdraw and remove liquidity",
+                "operation_type": "Withdraw",
+                "tags": []
+            }            
+        },
+        "tags": []
+        }
+    ],
+    "0x85d3337c4ca94612f278c5164d2b21d0d83354648bf9555272b5f9d8f1f33b2a" : [
+        {
+            "module_name": "voting_escrow",
+            "module_description": "Cellana Voting Escrow",
+            "functions" : {
+                "create_lock_entry" : {
+                    "description" : "Create Lock Entry",
+                    "operation_type": "Lock",
+                    "tags": []
+                }
+            }
+        },
+        {
+            "module_name": "vote_manager",
+            "module_description": "Cellana Voting Manager",
+            "functions" : {
+                "claim_emissions_entry" : {
+                    "description" : "Claim Emissions Entry",
+                    "operation_type": "Claim",
+                    "tags": []
+                },
+                "incentivize_coin_entry" : {
+                    "description" : "Incentivize Coin Entry",
+                    "operation_type": "Incentivize",
+                    "tags": []
+                }
+            }
+        }
+    ] 
+}

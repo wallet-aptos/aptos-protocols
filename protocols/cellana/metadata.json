@@ -1,0 +1,21 @@
+{
+    "name": "cellana",
+    "parent_protocol_name": null,
+    "website": "https://cellana.finance/",
+    "twitter": "https://twitter.com/CellanaFinance",
+    "telegram": "https://t.me/CellanaFinance",
+    "github": "https://github.com/Cellana-Finance/v1-core",
+    "documentation": "https://docs.cellana.finance/",
+    "discord": "https://discord.com/invite/fvGrNVN55B",
+    "logo": "https://raw.githubusercontent.com/wallet-aptos/aptos-protocols/main/icons/baptswap",
+    "description": "Cellana Finance's Ve(3,3) economic model tackles the obstacles of motivating liquidity providers and guaranteeing revenue for DEX governance token holders.",
+    "description_short": "The first Aptos DEX which uses the Ve(3,3) Model in Move.",
+    "is_banned": false,
+    "status": "active",
+    "categories" : [
+        "defi"
+    ],
+    "tags": [
+        "dex", "pools"
+    ]
+}
