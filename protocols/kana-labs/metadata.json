@@ -1,0 +1,21 @@
+{
+    "name": "kana-labs",
+    "parent_protocol_name": null,
+    "website": "https://app.kanalabs.io/",
+    "twitter": "https://twitter.com/kanalabs",
+    "telegram": "https://twitter.com/kanalabs",
+    "github": "https://github.com/kanalabs",
+    "documentation": "https://docs.echelon.market/echelon-v1",
+    "discord": "https://discord.com/invite/CrqCaQ45kZ",
+    "logo": "https://raw.githubusercontent.com/wallet-aptos/aptos-protocols/main/icons/kana-labs.avif",
+    "description": "We have built a core foundation layer of aggregated bridges and blockchains on which the next-gen tools for DeFi and Gamefi would be built - an ecosystem for seamless transactions, a layer-1 for Web3 and games to bridge through.Lastly, we have the cheapest + fastest swap rates across on our dapp. Our smart wallet features - AA (Account Abstraction), social logins and everything customised.",
+    "description_short": "Friendly Super-app for DeFi. Building the Future of web3",
+    "is_banned": false,
+    "status": "active",
+    "categories" : [
+        "defi"
+    ],
+    "tags": [
+        "swap", "perps", "yields"
+    ]
+}
