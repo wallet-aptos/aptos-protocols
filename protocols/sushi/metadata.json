@@ -1,0 +1,21 @@
+{
+    "name": "sushi",
+    "parent_protocol_name": null,
+    "website": "https://www.sushi.com/",
+    "twitter": "https://twitter.com/sushiswap",
+    "telegram": "",
+    "github": "https://github.com/sushiswap",
+    "documentation": "https://www.sushi.com/blog",
+    "discord": "https://discord.gg/NVPXN4e",
+    "logo": "https://raw.githubusercontent.com/wallet-aptos/aptos-protocols/main/icons/sushi.avif",
+    "description": "Sushi is a community-driven organization built to solve what might be called the “liquidity problem. Rather than limiting itself to a single solution, Sushi intertwines many decentralized markets and instruments.",
+    "description_short": "A leading multi-chain DEX deployed across 30+ blockchains",
+    "is_banned": false,
+    "status": "active",
+    "categories" : [
+        "defi"
+    ],
+    "tags": [
+        "swap", "pool", "bridge", "bonds", "stake"
+    ]
+}

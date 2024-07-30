@@ -1,0 +1,33 @@
+{
+    "0x31a6675cbe84365bf2b0cbce617ece6c47023ef70826533bde5203d32171dc3c" : [
+        {
+            "module_name": "router",
+            "module_description" : "Sushiswap Router",
+            "functions" : {
+                "swap_exact_input" : {
+                    "description" : "Swap exact input",
+                    "operation_type": "Swap",
+                    "tags": []
+                },
+                "swap_exact_output" : {
+                    "description" : "add_liquidity",
+                    "operation_type": "Liquidity",
+                    "tags": []
+                }
+            }
+        }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa" : [
+        {
+            "module_name": "asset",
+            "module_description": "Sushiswap's Asset Module",
+            "functions" : {
+                "register" : {
+                    "description" : "USDC",
+                    "operation_type": "Swap with USDC",
+                    "tags": []
+                }
+            }
+        }
+    ]
+}
