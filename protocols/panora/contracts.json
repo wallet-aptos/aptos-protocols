@@ -1,0 +1,46 @@
+{
+    "0x1c3206329806286fd2223647c9f9b130e66baeb6d7224a18c1f642ffe48f3b4c" : [
+        {
+            "module_name": "panora_swap_aggregator_fungible_asset",
+            "module_description": "Panora Swap Aggregator Fungible Asset",
+            "functions" : {
+                "fa_split_multi_step_split_route_exact_input_entry" : {
+                    "description" : "FA Split Multi Step Split Route Exact Input Entry",
+                    "operation_type": "Swap",
+                    "tags": []
+                }
+            }
+        }
+    ],
+    "0x576410486a2da45eee6c949c995670112ddf2fbeedab20350d506328eefc9d4f" : [
+        {
+            "module_name": "transfer_tokens",
+            "module_description": "Transfer Tokens through Panora",
+            "functions" : {
+                "transfer_tokens_entry" : {
+                    "description" : "Transfer Tokens Entry",
+                    "operation_type": "Swap",
+                    "tags": []
+                }
+            }
+        }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa" : [
+        {
+            "module_name": "asset",
+            "module_description": "Panora Assets",
+            "functions" : {
+                "USDC" : {
+                    "description" : "USDC",
+                    "operation_type": "Asset",
+                    "tags": []
+                },
+                "USDT" : {
+                    "description" : "USDT",
+                    "operation_type": "Asset",
+                    "tags": []
+                }
+            }
+        }
+    ]
+}

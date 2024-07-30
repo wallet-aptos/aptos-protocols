@@ -1,0 +1,21 @@
+{
+    "name": "panora",
+    "parent_protocol_name": null,
+    "website": "https://panora.exchange/",
+    "twitter": "https://twitter.com/PanoraExchange",
+    "telegram": "https://t.me/PanoraExchange_Ann",
+    "github": "https://github.com/PanoraExchange",
+    "documentation": "https://docs.panora.exchange/",
+    "discord": "https://discord.com/invite/EXhEqqTcjs",
+    "logo": "https://raw.githubusercontent.com/wallet-aptos/aptos-protocols/main/icons/panora.avif",
+    "description": "Panora serves as a one-stop trading hub for all DeFi needs, offering Meta-DEX Aggregator and On-Chain Orderbook as products, to provide users with the best routes and rates in the market.",
+    "description_short": "Smart DEX Aggregator.",
+    "is_banned": false,
+    "status": "active",
+    "categories" : [
+        "defi"
+    ],
+    "tags": [
+        "swap", "bridge", "trade"
+    ]
+}
