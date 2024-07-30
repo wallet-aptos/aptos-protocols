@@ -1,0 +1,26 @@
+{
+    "0x9538c839fe490ccfaf32ad9f7491b5e84e610ff6edc110ff883f06ebde82463d" : [
+        {
+            "module_name": "KanaLabsRouterV2",
+            "module_description": "Kana Labs Router V2",
+            "functions" : {
+                "swap_router" : {
+                    "description" : "Create a new pair",
+                    "operation_type": "Create",
+                    "tags": []
+                }
+            }
+        },
+        {
+            "module_name": "wrapper",
+            "module_description" : "Kana Labs Wrapper",
+            "functions" : {
+                "deposit_and_register_base" : {
+                    "description" : "Deposit and register base",
+                    "operation_type": "Deposit",
+                    "tags": []
+                }
+            }
+        }
+    ]
+}
