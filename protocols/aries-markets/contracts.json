@@ -1,0 +1,65 @@
+{
+    "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3" : [
+        {
+            "module_name": "controller",
+            "module_description": "Aries Markets Controller",
+            "functions" : {
+                "register_user" : {
+                    "description" : "Register a user",
+                    "operation_type": "Registration",
+                    "tags": []
+                },
+                "deposit" : {
+                    "description" : "Deposit in wallet",
+                    "operation_type": "Deposit",
+                    "tags": []
+                },
+                "withdraw" : {
+                    "description" : "Withdraw from wallet",
+                    "operation_type": "Withdraw",
+                    "tags": []
+                },
+                "liquidate_and_redeem": {
+                    "description": "Liquidate and redeem",
+                    "operation_type": "Liquidation",
+                    "tags": []
+                }
+            }
+        },
+        {
+            "module_name": "wrapped_controller",
+            "module_description": "Aries Markets Wrapped Controller",
+            "functions" : {
+                "claim_rewards" : {
+                    "description" : "Claim Rewards",
+                    "operation_type": "Claim",
+                    "tags": []
+                }
+            }
+        },
+        {
+            "module_name": "lp",
+            "module_description": "Aries Markets Liquidity Pool",
+            "functions" : {
+                "LP<0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC>" : {
+                    "description" : "Add liquidity with USDC",
+                    "operation_type": "Liquidity",
+                    "tags": []
+                }
+            }
+        }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa" : [
+        {
+            "module_name": "asset",
+            "module_description": "Aries Markets Asset Module",
+            "functions" : {
+                "register" : {
+                    "description" : "USDC",
+                    "operation_type": "Swap with USDC",
+                    "tags": []
+                }
+            }
+        }
+    ]
+}

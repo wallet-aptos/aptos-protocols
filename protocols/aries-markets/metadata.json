@@ -1,0 +1,21 @@
+{
+    "name": "aries-markets",
+    "parent_protocol_name": null,
+    "website": "https://ariesmarkets.xyz/",
+    "twitter": "https://twitter.com/AriesMarkets",
+    "telegram": "",
+    "github": "https://github.com/Aries-Markets/",
+    "documentation": "https://docs.ariesmarkets.xyz/aries-markets",
+    "discord": "https://discord.gg/wD97KT29uh",
+    "logo": "https://raw.githubusercontent.com/wallet-aptos/aptos-protocols/main/icons/aries-finance.avif",
+    "description": "Aries Markets is an all-in-one decentralized finance platform that offers an innovative money market. Our platform allows users to lend, borrow and trade with leverage easily, all in one place.",
+    "description_short": "Decentralized Digital Exchange With in-built Money Markets, Your Key Your Coin",
+    "is_banned": false,
+    "status": "active",
+    "categories" : [
+        "defi"
+    ],
+    "tags": [
+        "lend/borrow", "dex", "pools"
+    ]
+}
