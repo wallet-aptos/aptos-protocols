@@ -1,0 +1,21 @@
+{
+    "name": "Abel Finance",
+    "parent_protocol_name": null,
+    "website": "https://abelfinance.xyz/",
+    "twitter": "https://twitter.com/abelfinance",
+    "telegram": "",
+    "github": "https://github.com/abelfinance",
+    "documentation": "https://aptos-lend.gitbook.io/abel-finance",
+    "discord": "https://discord.com/invite/abelfinance",
+    "logo": "https://raw.githubusercontent.com/wallet-aptos/aptos-protocols/main/icons/abel-finance.avif",
+    "description": "The First Cross-Chain Lending Platform Build on Aptos and Sui",
+    "description_short": "A Move Cross-Chain Lending Platform",
+    "is_banned": false,
+    "status": "active",
+    "categories" : [
+        "defi"
+    ],
+    "tags": [
+        "lend/borrow", "dex"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "0xc0188ad3f42e66b5bd3596e642b8f72749b67d84e6349ce325b27117a9406bdf" : [
+        {
+            "module_name": "acoin_lend",
+            "module_description": "Acoin Lend Module",
+            "functions" : {
+                "mint_entry" : {
+                    "description" : "Mint Entry",
+                    "operation_type": "Mint",
+                    "tags": []
+                },
+                "redeem_entry" : {
+                    "description" : "Redeem Entry",
+                    "operation_type": "Redeem",
+                    "tags": []
+                }
+            }
+        },
+        {
+            "module_name": "aggregator",
+            "module_description":"Abel Finance Aggregator",
+            "functions" : {
+                "swap" : {
+                    "description" : "Swap",
+                    "operation_type": "Swap",
+                    "tags": []
+                }
+            }
+        }
+    ]
+}
